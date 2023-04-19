@@ -1,2 +1,4 @@
 # PythonProject
-# Sample Hello World project in python
+
+# Sample Hello Wolrd project in python
+# Welcome to this repo
