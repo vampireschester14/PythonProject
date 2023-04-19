@@ -1,2 +1,2 @@
 # PythonProject
-# Sample Hellow Wrold project in python
+# Sample Hello World project in python
